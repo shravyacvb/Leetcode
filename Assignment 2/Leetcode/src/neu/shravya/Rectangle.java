@@ -41,11 +41,4 @@ public class Rectangle extends Shape{
         this.height = height;
     }
 
-//    public void setPerimeter() {
-//        this.perimeter = 2*(this.width + this.height);
-//    }
-//
-//    public void setArea() {
-//        this.area = this.width * this.height;
-//    }
 }

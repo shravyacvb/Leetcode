@@ -23,12 +23,4 @@ public class Square extends Shape {
     public void setSide(int side){
         this.side = side;
     }
-
-//    public void setPerimeter() {
-//        this.perimeter = 4 * this.side;
-//    }
-//
-//    public void setArea() {
-//        this.area = this.side * this.side;
-//    }
 }
