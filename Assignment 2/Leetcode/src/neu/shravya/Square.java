@@ -1,5 +1,6 @@
 package neu.shravya;
 
+//Inherits Shape
 public class Square extends Shape {
     private int side;
 

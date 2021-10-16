@@ -1,5 +1,6 @@
 package neu.shravya;
 
+//Inherits Shape
 public class Rectangle extends Shape{
     private int width;
     private int height;
