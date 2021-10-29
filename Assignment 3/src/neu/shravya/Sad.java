@@ -2,6 +2,8 @@ package neu.shravya;
 
 public class Sad extends Moody{
 
+    //Sad Method
+
     @Override
     protected String getMood() {
         return "I feel sad today";
